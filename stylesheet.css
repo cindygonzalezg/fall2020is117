@@ -1,33 +1,47 @@
-html {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 36px;
-    line-height: 61px;
+html{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 30px;
+    line-height: 51px;
+    background-color: snow;
+    opacity: 0.7;
 
 }
-body{
-    background: azure
+.navbar {
+    overflow: hidden;
+    background-color: snow;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-left: 170px;
+
 }
-#wrapper {
-    width: 1208px;
-    margin-left: auto;
-    margin-right: auto;
-}
-footer {
+.navbar a {
+    float: left;
+    display: block;
+    color: darkslategray;
     text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
-h1 {
-    font-size: 200%;
-    color: #000099
-}
-h2 {
-    font-size: 180%;
-}
-h3 {
-    font-size: 160%;
-}
-menu {
-    padding-left: 0px;
+body{
+    font-family: Verdana, Geneva, sans-serif;
 }
 menu li {
     display: inline;
+}
+footer {
+    text-align: center;
+    color: black;
+    font-size: 80%
+}
+h1 {
+    text-align: center;
+    font-size: 200%;
+    color: dimgray;
+    font-family: Verdana, Geneva, sans-serif;
+}
+p{
+    font-size: 90%;
+    width: 1450px;
+    margin: auto;
 }
