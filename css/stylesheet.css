@@ -35,12 +35,22 @@ footer {
     font-size: 80%
 }
 h1 {
-    margin-left: 40px;
+    margin-left: 210px;
     color: black;
     font-family: Verdana, Geneva, sans-serif;
 }
 p{
-    font-size: 90%;
-    width: 1450px;
-    margin: auto;
+    font-size: 70%;
+    width: 1208px;
+    margin-left: 210px;
+}
+
+#sidebar {
+    width: 20rem;
+    float: left;
+    padding-left: 5rem;
+
+}
+.card {
+    border: 1px black solid;
 }
