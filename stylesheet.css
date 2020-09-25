@@ -18,7 +18,7 @@ html{
 .navbar a {
     float: left;
     display: block;
-    color: darkslategray;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -35,7 +35,7 @@ footer {
     font-size: 80%
 }
 h1 {
-    margin-left: 170px;
+    margin-left: 40px;
     color: black;
     font-family: Verdana, Geneva, sans-serif;
 }
