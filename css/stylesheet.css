@@ -4,7 +4,7 @@
     position: fixed;
     top: 0;
     width: 100%;
-    margin-left: 1px;
+    margin-left: 100px;
 
 }
 .navbar a {
@@ -30,14 +30,14 @@ footer {
     font-size: 60%
 }
 h1 {
-    margin-left: 1px;
+    margin-left: 100px;
     color: black;
     font-family: Verdana, Geneva, sans-serif;
 }
 p{
     font-size: 70%;
     width: 1208px;
-    margin-left: 1px;
+    margin-left: 100px;
 }
 main {
     width:960px;
