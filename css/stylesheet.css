@@ -31,14 +31,14 @@ footer {
 }
 h1 {
     margin-top: 20px;
-    margin-left: 90px;
+    margin-left: 0px;
     color: black;
     font-family: Verdana, Geneva, sans-serif;
 }
 p{
     font-size: 70%;
     width: 1208px;
-    margin-left: 90px;
+    margin-left: 0px;
 }
 main {
     width:960px;
