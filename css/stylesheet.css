@@ -30,42 +30,20 @@ footer {
     font-size: 60%
 }
 h1 {
-    margin-left: 210px;
+    margin-left: 170px;
     color: black;
     font-family: Verdana, Geneva, sans-serif;
 }
 p{
     font-size: 70%;
     width: 1208px;
-    margin-left: 210px;
-}
-
-#sidebar {
-    width: 329px;
-    padding-top: 144px;
-    padding-left: 19px;
-    padding-right: 19px;
-    float: left;
-    font-size: 11px;
-    line-height: 18px;
-}
-#sidebar h1 {
-    font-size: 10px;
-    line-height: 36px;
-    margin-bottom: 18px;
-}
-.card {
-    border: 1px solid black;
-    padding-left: 19px;
-    padding-right: 19px;
-    padding-bottom: 19px;
+    margin-left: 170px;
 }
 #content {
     width: 550px;
 }
 
 main {
-    margin-left: auto;
     margin-right: auto;
     width:960px;
 }
